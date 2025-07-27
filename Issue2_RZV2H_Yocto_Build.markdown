@@ -1,4 +1,4 @@
-# Issue 2: Building and Flashing Yocto Image for Renesas RZ/V2H EVK
+# Building and Flashing Yocto Image for Renesas RZ/V2H EVK
 
 I encountered issues setting up the Yocto build environment for the Renesas RZ/V2H EVK to run Edge Impulse projects, including enabling development features and SSH. Below is the step-by-step solution I used to execute the build script, flash the image, and boot the board, based on the Edge Impulse documentation (March 2025) and Renesas AI SDK v5.20.
 
